@@ -205,3 +205,17 @@ C:\practicas seda\VulnerableApp\bin\Debug\net10.0\runtimes\win-x64\native\Micros
 C:\practicas seda\VulnerableApp\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\practicas seda\VulnerableApp\obj\Debug\net10.0\Vulnerab.C7777D6E.Up2Date
 C:\practicas seda\VulnerableApp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\practicas seda\VulnerableApp\obj\Debug\net10.0\VulnerableApp.sourcelink.json
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.AspNetCore.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.Enrichers.Environment.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.Enrichers.Process.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.Enrichers.Thread.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.Extensions.Hosting.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.Extensions.Logging.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.Formatting.Compact.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.Settings.Configuration.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.Sinks.Console.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.Sinks.Debug.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.Sinks.File.dll
+C:\practicas seda\VulnerableApp\bin\Debug\net10.0\Serilog.Sinks.Seq.dll
